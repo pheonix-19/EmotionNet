@@ -1,8 +1,5 @@
 # EmotionNet
-Emotion Detection from Scratch
-Author: Balaji Chippada
-Date: 2024/04/03
-Affiliation: [If applicable]
+
 
 Abstract
 This project focuses on the development of an emotion detection model from scratch using the FER-2013 dataset. The model is trained to classify facial expressions into seven distinct emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral. The work explores the challenges of building a robust emotion classifier, evaluating its performance, and proposing future improvements. The project highlights the significance of emotion detection in fields like human-computer interaction and mental health, offering a baseline model for further research and application.
